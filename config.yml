@@ -1,0 +1,16 @@
+workers: 0
+display: 1
+epoches: 10
+test_epoches: 15
+batch_size: 2
+base_lr: 0.02
+beta1: 0.5
+ano_para: 0.1
+dataset: 'celebA'
+#dataset: 'mnist'
+#dataset: 'cifar10'
+image_size: 256, 256
+z_dim: 100
+c_dim: 3
+gf_dim: 128
+df_dim: 128

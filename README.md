@@ -1,9 +1,10 @@
 # Dataset
 
 - Home page: https://www.aitex.es/afid/
-- Cropped version: 
 
+- Cropped version: https://drive.google.com/file/d/1iDBS92WVHR50GLga77cn0RrleC6rrlEs/view?usp=sharing
 
+  Download and unzip it to the `datasets/AITEX/` directory
 
 # Train
 
@@ -30,5 +31,7 @@
   				--checkpoint_dir ./ckpts
   ```
 
-  
 
+# Reference
+
+- https://github.com/seokinj/anoGAN
